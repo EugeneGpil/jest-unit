@@ -1,0 +1,24 @@
+{
+  "name": "unit-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "keywords": [
+    "js",
+    "jest",
+    "unit",
+    "testing",
+    "unit-testing"
+  ],
+  "author": "EugeneGpil <gpilligrim@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/preset-env": "^7.15.8",
+    "@types/jest": "^27.0.2",
+    "jest": "^27.2.5"
+  },
+  "dependencies": {}
+}
