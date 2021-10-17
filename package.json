@@ -23,6 +23,7 @@
     "jest": "^27.2.5"
   },
   "dependencies": {
-    "@babel/runtime": "^7.15.4"
+    "@babel/runtime": "^7.15.4",
+    "axios": "^0.23.0"
   }
 }
