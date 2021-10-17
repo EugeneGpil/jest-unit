@@ -17,9 +17,12 @@
   "author": "EugeneGpil <gpilligrim@gmail.com>",
   "license": "ISC",
   "devDependencies": {
+    "@babel/plugin-transform-runtime": "^7.15.8",
     "@babel/preset-env": "^7.15.8",
     "@types/jest": "^27.0.2",
     "jest": "^27.2.5"
   },
-  "dependencies": {}
+  "dependencies": {
+    "@babel/runtime": "^7.15.4"
+  }
 }

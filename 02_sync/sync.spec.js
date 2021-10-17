@@ -1,4 +1,4 @@
-import Lodash from './02_sync'
+import Lodash from './sync'
 
 describe('Lodash: compact', () => {
 
